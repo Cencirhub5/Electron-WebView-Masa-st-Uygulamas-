@@ -56,21 +56,28 @@ npx electron-packager . OrnekUygulama --platform=win32 --arch=x64 --icon=icon.ic
 
 İçindeki OrnekUygulama.exe çalıştırılabilir masaüstü uygulamadır
 
-🔒 Güvenlik Notları
+🔒 Güvenlik Notları:
+
+
 sandbox ve contextIsolation gibi güvenlik ayarları aktiftir
 
 nodeIntegration: false ile içerik kodlarından sistem erişimi kapatılmıştır
 
 DevTools devre dışıdır (gerekiyorsa devTools: true yapabilirsin)
 
-📌 Geliştirici Bilgisi
+📌 Geliştirici Bilgisi:
+
+
 Proje yapısı sade ve modülerdir
 
 Dilersen splash ekran, güncelleme kontrolü, tray menüsü, dark mode gibi özellikler ekleyebilirsin
 
-📩 İletişim
+📩 İletişim:
+
+
 📬 Bu projeyi geliştiren: Emre Gencer – GitHub
 💬 Her türlü öneri, sorun bildirimi veya katkı için PR gönderin veya issue açın.
+📩 Mail Adresim: bilgi@ebgyazilim.com.tr
 
 📝 Lisans
 MIT © 2025
