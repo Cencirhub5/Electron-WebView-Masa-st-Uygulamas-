@@ -51,7 +51,9 @@ Gerçek .ico dosyası olmalı (örn: https://icoconvert.com)
 
 npx electron-packager . OrnekUygulama --platform=win32 --arch=x64 --icon=icon.ico --overwrite
 ```
-📁 Çıktı
+📁 Çıktı:
+
+
 /OrnekUygulama-win32-x64 klasörü oluşur
 
 İçindeki OrnekUygulama.exe çalıştırılabilir masaüstü uygulamadır
@@ -76,7 +78,11 @@ Dilersen splash ekran, güncelleme kontrolü, tray menüsü, dark mode gibi öze
 
 
 📬 Bu projeyi geliştiren: Emre Gencer – GitHub
+
+
 💬 Her türlü öneri, sorun bildirimi veya katkı için PR gönderin veya issue açın.
+
+
 📩 Mail Adresim: bilgi@ebgyazilim.com.tr
 
 📝 Lisans
