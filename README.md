@@ -77,7 +77,7 @@ Dilersen splash ekran, güncelleme kontrolü, tray menüsü, dark mode gibi öze
 📩 İletişim:
 
 
-📬 Bu projeyi geliştiren: Emre Gencer – GitHub
+📬 Bu projeyi geliştiren: Emre Gencer – [GitHub](https://github.com/Cencirhub5)
 
 
 💬 Her türlü öneri, sorun bildirimi veya katkı için PR gönderin veya issue açın.
